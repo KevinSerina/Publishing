@@ -1,0 +1,1 @@
+<Book xmlns="http://schemas.datacontract.org/2004/07/Publishing" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><author><background>Harry Potter author</background><first>JK</first><last>Rowling</last></author><price>50</price><title>Harry Potter</title></Book>
